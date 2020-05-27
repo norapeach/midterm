@@ -22,6 +22,14 @@
  * Lucas Mia Julia
  * Mia Julia Lucas
  * Mia Lucas Julia
+ * 
+ * Collaborated with Michael G. github.com/ZenSorcere
+ * Melissa G.
+ * Jessica S. 
+ * Walked through a diagram of this version (partial received on 
+ * 5/24) compared to a explore - keep - swap - recursive solution.
+ * 
+ * TODO unit test?
  *********************************************************/
 
 import java.util.Scanner;
@@ -62,9 +70,8 @@ public class PhotoLineUp {
 
 		// END while
 		scnr.close();
-		
+
 		allPermutations(permList, nameList);
-		
 
 	} // END main
 
